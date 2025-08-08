@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=false&vCenter=false&width=1000&lines=HELLO👋+My+name+is+Ayan;Welcome+to+my+profile!)
+</br>
+<a href="mailto:i@blackcater.dev">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
+<a href="https://leetcode-cn.com/u/blackcater/">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+</a>
 
 ###
 

@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=30&center=false&vCenter=false&width=900&lines=HELLO👋+My+name+is+Ayan;Welcome+to+my+profile!)
-<div class="ascii-banner">
-<pre>
+<div class="ascii-wrapper">
+  <pre>
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -20,31 +20,38 @@
 ████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚████
-</pre>
+  </pre>
 </div>
 
 <style>
-.ascii-banner {
-  overflow-x: auto;
-  white-space: pre;
-  font-size: 8px; /* Default font size */
+.ascii-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.ascii-wrapper pre {
+  font-size: 8px;
   line-height: 8px;
+  transform-origin: top left;
+  white-space: pre;
 }
 
 @media (max-width: 768px) {
-  .ascii-banner {
-    font-size: 5px; /* Smaller on tablets */
-    line-height: 5px;
+  .ascii-wrapper pre {
+    transform: scale(0.7);
   }
 }
 
 @media (max-width: 480px) {
-  .ascii-banner {
-    font-size: 3px; /* Even smaller on mobile */
-    line-height: 3px;
+  .ascii-wrapper pre {
+    transform: scale(0.5);
   }
 }
 </style>
+
 
 💻 Full Stack Developer | ☁️ Cloud Enthusiast | 🤖 AI & Automation Explorer  
 
@@ -52,13 +59,13 @@ Passionate about building impactful web applications, crafting AI-powered soluti
 <br>
 
 <div align="center" gap="8px">
-<a href="https://www.linkedin.com/in/YO">
+<a href="www.linkedin.com/in/ayan-shaikh-097138319">
   <img src="https://github.com/Ayanshaikh313/Ayanshaikh313/blob/main/assets/linkedin-svgrepo-com.svg" height="40" width="60" />
 </a>
-<a href="mailto:i@blackcater.dev">
+<a href="mailto:ayanms7861@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40"  />
 </a>
-<a href="https://leetcode-cn.com/u/blackcater/">
+<a href="https://leetcode.com/u/AyanShaikh_101/">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
 </a>
 </div>

@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=30&center=false&vCenter=false&width=900&lines=HELLO👋+My+name+is+Ayan;Welcome+to+my+profile!)
 <br>
-![](https://komarev.com/ghpvc/?username=Ayanshaikh313&color=dc143c)
 <pre style="font-size:3px; line-height:3px;">
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -124,8 +123,9 @@ Passionate about building impactful web applications, crafting AI-powered soluti
 ![](https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/master/profile-summary-card-output/solarized/3-stats.svg)
 ![](https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/master/profile-summary-card-output/solarized/4-productive-time.svg)
-
+<br>
 </div>
+
 <br>
 
 

@@ -125,7 +125,34 @@ Passionate about building impactful web applications, crafting AI-powered soluti
 ![](https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/master/profile-summary-card-output/solarized/4-productive-time.svg)
 <br>
 </div>
-
 <br>
+
+<div align="center">
+
+  <!-- GitHub Contribution Snake Animation -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Ayanshaikh313/Ayanshaikh313/output/github-contribution-grid-snake.svg"
+      width="100%"
+      style="max-width: 600px; border-radius: 12px;"
+    />
+  </picture>
+
+  <br/>
+  <sub>🐍 Watch my contributions come alive!</sub>
+
+</div>
+
+
+
 
 

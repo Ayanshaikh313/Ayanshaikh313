@@ -14,9 +14,6 @@ Passionate about building impactful web applications, crafting AI-powered soluti
 <a href="mailto:ayanms7861@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40"  />
 </a>
-<a href="https://leetcode.com/u/AyanShaikh_101/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
 </div>
 <br>
 

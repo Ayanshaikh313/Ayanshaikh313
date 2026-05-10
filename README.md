@@ -1,21 +1,17 @@
+<h2 align="left">
+  Hey there, I'm Ayan Shaikh 
+</h2>
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=36&center=true&vCenter=true&width=900&lines=Hey+There!+👋+I'm+Ayan+Shaikh;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Turning+Real+Problems+into+Scalable+Solutions+🚀)](https://git.io/typing-svg)
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=33CC33&size=30&duration=3000&center=true&lines=Innovating+Through+Code+✨;Crafting+Modern+Web+Experiences;AI+Enthusiast+%7C+Developer;Welcome+to+Ayan's+GitHub+Profile)](https://github.com/Ayanshaikh313)
 <br>
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-02D9F7?style=flat-square&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cloud%20Enthusiast-0d1117?style=flat-square&color=02D9F7" />
-&nbsp;
-<img src="https://img.shields.io/badge/AI%20%26%20Automation%20Explorer-0d1117?style=flat-square&color=02D9F7" />
 
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** who loves turning real-world problems into clean, scalable solutions — from AI-powered web apps and cloud APIs to mobile experiences. I build with precision and ship with purpose.
 
@@ -24,7 +20,7 @@ I'm a passionate **Full Stack Developer** who loves turning real-world problems 
 <br>
 
 ```yaml
-Learning     : Mastering React Native App Development ·LangChain · Docker · Kubernetes 
+Learning     : LangChain · Docker · Kubernetes · Mastering React Native App Development
 Ask me about : Next.js · AI Integrations · REST APIs · Full Stack Architecture
 Email        : ayanms7861@gmail.com
 Fun Fact     : I turn complex, real-world problems into clean, scalable code
@@ -40,11 +36,12 @@ Fun Fact     : I turn complex, real-world problems into clean, scalable code
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanms7861@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayanshaikh313)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wu8sDM2Gb)
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -109,7 +106,7 @@ Fun Fact     : I turn complex, real-world problems into clean, scalable code
     </td>
   </tr>
   <tr>
-    <td align="center"><b> Tools</b></td>
+    <td align="center"><b>Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -148,7 +145,7 @@ Fun Fact     : I turn complex, real-world problems into clean, scalable code
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <picture>
